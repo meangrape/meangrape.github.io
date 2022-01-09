@@ -1,6 +1,7 @@
 # Ugly Obsidian
 
 ---
+layout: post
 title: Hurts My Eyes
 ---
 
