@@ -1,8 +1,8 @@
 Test
 
-$\delta B_{\mu \nu}^{p}=\mathcal{D}_{\mu}^{p q} \xi_{\nu}^{q}-\mathcal{D}_{\nu}^{p q} \xi_{\mu}^{q} \equiv R_{\mu \nu \alpha}^{p q} \xi^{q \alpha}, \quad \delta A_{\mu}^{p}=0$
+$$\delta B_{\mu \nu}^{p}=\mathcal{D}_{\mu}^{p q} \xi_{\nu}^{q}-\mathcal{D}_{\nu}^{p q} \xi_{\mu}^{q} \equiv R_{\mu \nu \alpha}^{p q} \xi^{q \alpha}, \quad \delta A_{\mu}^{p}=0$$
 
-\(\int_{M} K d A+\int_{\partial M} k_{g} d s=2 \pi \chi(M)\)
+\( \int_{M} K d A+\int_{\partial M} k_{g} d s=2 \pi \chi(M) \)
 
 \[
 \sum_{v \in \operatorname{int} M}(6-\chi(v))+\sum_{v \in \partial M}(3-\chi(v))=6 \chi(M)
