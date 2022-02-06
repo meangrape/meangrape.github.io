@@ -26,7 +26,7 @@ $$\delta B_{\mu \nu}^{p}=\mathcal{D}_{\mu}^{p q} \xi_{\nu}^{q}-\mathcal{D}_{\nu}
 
 ### Some pipes
 \\[
-|> I'm a pipe | | | |
+|> \texttt{I'm a pipe} |  | | |
 \\]
 
 
