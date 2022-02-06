@@ -6,7 +6,10 @@ $\delta + m_{1}\delta_{2}+m_{2}\delta_{3}$
 
 
 ### Two dollars
-$$\delta B_{\mu \nu}^{p}=\mathcal{D}_{\mu}^{p q} \xi_{\nu}^{q}-\mathcal{D}_{\nu}^{p q} \xi_{\mu}^{q} \equiv R_{\mu \nu \alpha}^{p q} \xi^{q \alpha}, \quad \delta A_{\mu}^{p}=0$$
+$$\delta B_{\mu \nu}^{p}=\mathcal{D}_{\mu}^{p q} \xi_{\nu}^{q}-\mathcal{D}_{\nu}^{p q} \xi_{\mu}^{q} \equiv R_{\mu \nu \alpha}^{p q} \xi^{q \alpha}, \quad \delta A_{\mu}^{p}=0$$ <br>
+
+#### Try some two dollars
+$$ $$ $$ $$ $$ $$ \$\$ \\$\\$
 
 
 ### Backslash paren escaped
