@@ -24,4 +24,9 @@ $$\delta B_{\mu \nu}^{p}=\mathcal{D}_{\mu}^{p q} \xi_{\nu}^{q}-\mathcal{D}_{\nu}
 \begin{array}{c}\mathcal{L}(q)=E_{q(\tau)}[\log p(\tau)]+E_{q(\theta)}[\log p(\theta)]+E_{q(\mathbf{z}) q(\tau)}[\log p(\mathbf{z} \mid \tau)] \\ H(Y \mid X)=\sum_{x \in \mathcal{X}, y \in \mathcal{Y}} p(x, y) \log \left(\frac{p(x)}{p(x, y)}\right)\end{array}
 \end{equation}
 
+### Some pipes
+\\[
+|> I'm a pipe | | | |
+\\]
+
 
